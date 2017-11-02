@@ -1,2 +1,4 @@
 # Fintech_Customer_Portal
-# Made with love by Salih Demir 
+<div class="with-love" style="color: #ea3556;">
+            Made with <span class="heart">♥</span> by Salih Demir</a>
+        </div>
